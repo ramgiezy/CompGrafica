@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(430): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(869): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(870): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(874): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(875): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(877): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\admin\documents\escuela\comp grafica\lab\proyecto\openglproject\homealone\homealone\main.cpp(878): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  HomeAlone.vcxproj -> C:\Users\Admin\Documents\escuela\comp grafica\lab\proyecto\openglProject\HomeAlone\Debug\HomeAlone.exe
