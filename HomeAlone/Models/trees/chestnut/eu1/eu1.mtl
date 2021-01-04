@@ -1,0 +1,135 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 03.01.2021 16:38:37
+
+newmtl EU43trk4
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43trk4.tif
+	bump EU43trk4.tif
+	map_bump EU43trk4.tif
+
+newmtl EU43twg1
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43twg1.tif
+	bump EU43twg1.tif
+	map_bump EU43twg1.tif
+
+newmtl EU43brk4
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43brk4.tif
+	bump EU43brk4.tif
+	map_bump EU43brk4.tif
+
+newmtl EU43lef2
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43lef2.tif
+	map_d EU43lef2.tif
+
+newmtl EU43stk1
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43stk1.tif
+	bump EU43stk1.tif
+	map_bump EU43stk1.tif
+
+newmtl EU43stp2
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43stp2.tif
+	map_d EU43stp2.tif
+
+newmtl EU43lef1
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43lef1.tif
+	map_d EU43lef1.tif
+
+newmtl EU43rts4
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.4922
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd EU43rts4.tif
+	bump EU43rts4.tif
+	map_bump EU43rts4.tif
